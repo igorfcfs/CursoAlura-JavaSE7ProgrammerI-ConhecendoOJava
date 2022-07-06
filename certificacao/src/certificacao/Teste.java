@@ -80,18 +80,18 @@ package certificacao;
 //}
 
 //Block #5
-class Pessoa {
-	
-	static int x = 0;
-	public void setX(int x) {
-		Pessoa.x = x;
-	}
-	
-	int y = 0;
-	public void setY(int y) {
-		this.y = y;
-	}
-}
+//class Pessoa {
+//	
+//	static int x = 0;
+//	public void setX(int x) {
+//		Pessoa.x = x;
+//	}
+//	
+//	int y = 0;
+//	public void setY(int y) {
+//		this.y = y;
+//	}
+//}
 
 class X {
 	int a = 18;
