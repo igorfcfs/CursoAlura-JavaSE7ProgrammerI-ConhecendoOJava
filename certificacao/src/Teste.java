@@ -1,5 +1,3 @@
-package certificacao;
-
 //Block #1
 //public class Teste {
 //	
